@@ -1,4 +1,4 @@
-# Angelic Bakes
+# Sweet Angelic Bakes
 
 A responsive, self-contained bakery website. Open `index.html` in a browser; no installation or build step is required.
 
